@@ -1,0 +1,52 @@
+
+#balanceCard {
+    /* background-color: #f1f1f1; */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  #balanceCard h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #balanceCard p {
+    color: #666;
+    font-size: 18px;
+  }
+  
+  #transactionCard {
+    /* background-color: #f1f1f1; */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
+  #transactionCard h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #transactionCard ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #transactionCard li {
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  #transactionCard a {
+    color: #333;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  
+  #transactionCard a:hover {
+    text-decoration: underline;
+  }
